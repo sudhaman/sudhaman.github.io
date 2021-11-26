@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="icon" href="{{ site.baseutl }}/favicon.ico" type="image/x-icon" />
+
+    {% include meta.html %}
+    <script type="text/javascript" async
+	      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link href="/css/monokai.css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <style>
+	body {
+		padding-top: 70px;
+		padding-bottom: 50px;
+	}
+	img {
+		max-width: 100%;
+	}
+    </style>
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="container-fluid">
+	<div class="row">
+		<nav class="navbar navbar-default navbar-fixed-top">
+	  	<div class="col-md-2 hidden-phone">
+		</div>
+		<div class="col-md-9 hidden-phone">
+	  	  <div class="navbar-header">
+        	    <a class="navbar-brand" href="{{ site.baseurl }}/">Blog</a>
+	            <a class="navbar-brand" href="{{ site.baseurl }}/about">About</a>
+        	  </div>
+		</div>
+		<div class="col-md-9 hidden-phone">
+		</div>
+	        </nav>
+	  </div>
+	</div>
+    </div>
+
+    <div class="container-fluid">
+	    <div class="row">
+		    <div class="col-md-2 hidden-phone">
+			    <div class="navbar navbar-light navbar-fixed-left" style="background-color: #e3f2fd;">
+			      <ul class="nav navbar-nav" style="display:block;height:100%;width:100%">
+			      {% for post in site.posts limit:5  %}
+			      <li style="display:block;height:100%;width:100%"><a href="{{ post.url }}" style="display:block;height:100%;width:100%">{{ post.title }}</a></li>
+		    	      {% endfor %}
+			      </ul>
+			    </div>
+		    </div>
+		    <div id="main" role="main" class="col-md-9">
+		      {{ content }}
+		    </div>
+		    <div class="col-md-1 hidden-phone">
+		    </div>
+	    </div>
+    </div>
+
+    <div class="container-fluid">
+        <nav class="navbar navbar-default navbar-fixed-bottom">
+		<div id="navbar-footer">
+			<p> {{ site.description }} </p>
+		</div>
+        </nav>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
