@@ -54,7 +54,7 @@
 		    <div class="col-md-2 hidden-phone">
 			    <div class="navbar navbar-light navbar-fixed-left" style="background-color: #e3f2fd;">
 			      <ul class="nav navbar-nav" style="display:block;height:100%;width:100%">
-			      {% for post in site.posts limit:5  %}
+			      {% for post in site.posts limit:10  %}
 			      <li style="display:block;height:100%;width:100%"><a href="{{ post.url }}" style="display:block;height:100%;width:100%">{{ post.title }}</a></li>
 		    	      {% endfor %}
 			      </ul>
