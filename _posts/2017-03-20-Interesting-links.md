@@ -50,4 +50,6 @@ Below are the list of fish suitable for aquaponics
 4. Carp - More like Koi. Koi is a inbred carp.
 5. Tilapia - Make sure that a few generations of Tilapia fish are not used for eating/sale as they may have parasites due to the [bad fish feed](http://www.eatthis.com/tilapia-is-worse-than-bacon) being fed to these fish in commercial tilapia grow centers.
 ### Compost tea with aquaponics <a name="Compost_tea_aquaponics" />
-Though ocompost tea does not help in iron deficiency in the first few days, it will help in a aged system with lower PH. The video does not show how this compost tea is applied. One method to apply the compost tea is by spraying the compost tea on the plants of a aquaponics system. Also, using compost tea from a worm based compost is far better than the normal composting procedure as the risk of  
+
+>Though ocompost tea does not help in iron deficiency in the first few days, it will help in a aged system with lower PH. The video does not show how this compost tea is applied. One method to apply the compost tea is by spraying the compost tea on the plants of a aquaponics system. Also, using compost tea from a worm based compost is far better than the normal composting procedure as the risk.
+
