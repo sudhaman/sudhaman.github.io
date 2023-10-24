@@ -1,43 +1,43 @@
 ---
 layout: post
-title: Interesting links
+title: Summary of all Topics
 ---
 
 This web page contains interesting information regarding a number of topics. Also, I would keep this page updated for interesting links.
 
-# Table of contents
-1.[Agriculture](#Agriculture)
-	1. [Aquaponics](#Aquaponics)
-		1. [Good fish for aquaponics](#Good_fish_aquaponics)
-		2. [Compost tea with aquaponics](#Compost_tea_aquaponics)
-		3. [Goldfish or Koi](#Goldfish_Koi)
-			1. [Food for Goldfish](#Food_for_goldfish)
-			2. [Goldfish vegetables](#Goldfish_veggies)
-	2. [No till](#NoTill)
-2. [Functional Programming](#FP)
-	1. [SICP - Structure and interpretation of computer programs](#SICP)
-3. [Competitive Programming](#CP)
-	1. [USACO training](#USACO)
-	2. [Google Code Jam](#Code_jam)
-	3. [Al Zimmermann's Programming contests](#AlZimmermann)
-	4. [UVa Online Judge](#UVA)
-	5. [ICPC](#ICPC)
-	6. [Maths](#MathsCP)
-		1. [Project Euler](#ProjectEuler)
+### Table of contents
+1. [Agriculture](#Agriculture)
+   1. [Aquaponics](#Aquaponics)
+   2. [Good fish for aquaponics](#Good_fish_aquaponics)
+   3. [Compost tea with aquaponics](#Compost_tea_aquaponics)
+		1. [Goldfish or Koi](#Goldfish_Koi)
+			* [Food for Goldfish](#Food_for_goldfish)
+			* [Goldfish vegetables](#Goldfish_veggies)
+1. [No till](#NoTill)
+   1. [Functional Programming](#FP)
+   2. [SICP - Structure and interpretation of computer programs](#SICP)
+1. [Competitive Programming](#CP)
+1. [USACO training](#USACO)
+1. [Google Code Jam](#Code_jam)
+1. [Al Zimmermann's Programming contests](#AlZimmermann)
+1. [UVa Online Judge](#UVA)
+1. [ICPC](#ICPC)
+1. [Maths](#MathsCP)
+   2. [Project Euler](#ProjectEuler)
 	7. [Machine Learning - Competitive Programming](#MLCP)
 		1. [Kaggle](#Kaggle)
 	8. [Bioinformatics - programming](#BioCP)
 		1. [ROSALIND](#ROSALIND)
-4. [Theoretical physics](#TP)
+1. [Theoretical physics](#TP)
 	1. [How to become a GOOD Theoretical Physicist](#TP1)
-5. [General Computer Science](#GCS)
+1. [General Computer Science](#GCS)
 	1. [Design Patterns](#DesignPatterns)
   2. [C++](#CPP)
-6. [Good book reviews or talks](#book_reviews)
+1. [Good book reviews or talks](#book_reviews)
 	1. [How to Fail at Almost Everything and Still Win Big](#how_to_fail_at_almost_everything_and_still_win_big)
-7. [Health and fitness](#health_fitness)
+1. [Health and fitness](#health_fitness)
 	1. [Kefir](#kefir)
-8. [Hard truth](#hard_truth)
+1. [Hard truth](#hard_truth)
 	1. [Natural exploitation](#natural_exploitation)
 
 # Agriculture <a name="Agriculture" />
@@ -53,3 +53,4 @@ Below are the list of fish suitable for aquaponics
 
 >Though ocompost tea does not help in iron deficiency in the first few days, it will help in a aged system with lower PH. The video does not show how this compost tea is applied. One method to apply the compost tea is by spraying the compost tea on the plants of a aquaponics system. Also, using compost tea from a worm based compost is far better than the normal composting procedure as the risk.
 
+ 
