@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summary of all Topics
+date:   2023-10-10 10:00:00
 ---
 
 This web page contains interesting information regarding a number of topics. Also, I would keep this page updated for interesting links.
@@ -53,4 +54,3 @@ Below are the list of fish suitable for aquaponics
 
 >Though ocompost tea does not help in iron deficiency in the first few days, it will help in a aged system with lower PH. The video does not show how this compost tea is applied. One method to apply the compost tea is by spraying the compost tea on the plants of a aquaponics system. Also, using compost tea from a worm based compost is far better than the normal composting procedure as the risk.
 
- 
